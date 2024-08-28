@@ -1,1 +1,1 @@
-# Internship project of pythn
+# Internship project of python
